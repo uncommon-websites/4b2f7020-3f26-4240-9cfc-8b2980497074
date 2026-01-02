@@ -5,14 +5,14 @@
 <footer class="bg-brand-dark text-white pt-32 pb-12 overflow-hidden relative font-sans">
     <div class="max-w-7xl mx-auto px-4 relative z-10">
         <div class="text-center mb-24">
-             <span class="text-[10px] font-bold uppercase tracking-widest border border-white/20 px-3 py-1.5 rounded-full mb-8 inline-block">Strategy Sessions</span>
-             <h2 class="text-5xl md:text-7xl font-serif-display mb-6">Get in leader,<br/> we're driving growth.</h2>
-             <p class="text-gray-400 mb-10 max-w-lg mx-auto text-sm">Work directly with our expert team to create your content gameplan, and help you unlock a better system and scale your result to success.</p>
+             <span class="text-[10px] font-bold uppercase tracking-widest border border-white/20 px-3 py-1.5 rounded-full mb-8 inline-block">Start Your Free Trial</span>
+             <h2 class="text-5xl md:text-7xl font-serif-display mb-6">Ready to scale <br/> your growth?</h2>
+             <p class="text-gray-400 mb-10 max-w-lg mx-auto text-sm">Join growth teams at YC-backed startups who are shipping campaigns faster and smarter with Lapis. 14-day free trial, no credit card required.</p>
              
              <div class="flex flex-col sm:flex-row justify-center gap-2 max-w-md mx-auto">
                  <input type="email" placeholder="Enter your work email" class="bg-white/5 border border-white/10 rounded-lg px-4 py-3 w-full text-white placeholder-gray-500 focus:outline-none focus:border-brand-green transition-colors" />
-                 <button class="bg-brand-green hover:bg-brand-green-hover text-gray-900 px-6 py-3 rounded-lg font-bold whitespace-nowrap transition-colors flex items-center justify-center">
-                     Book a Demo 
+                 <button class="bg-brand-green hover:bg-brand-green-hover text-white px-6 py-3 rounded-lg font-bold whitespace-nowrap transition-colors flex items-center justify-center">
+                     Start Free Trial 
                      <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
                  </button>
              </div>
@@ -23,7 +23,7 @@
                 <h3 class="font-bold mb-6">Frequently Asked Questions</h3>
             </div>
             <div class="md:col-span-3 space-y-6">
-                {#each ['How is AirOps different from other generative AI tools?', 'What types of content can I create on AirOps?', 'How does AirOps help me beyond content creation?', 'What if I already use an SEO agency?', 'How does pricing work?'] as q}
+                {#each ['How does Lapis compare to hiring a design agency?', 'What ad platforms does Lapis support?', 'How does the AI learn my brand identity?', 'Can I track AI agent mentions of my competitors?', 'What\'s included in the free trial?'] as q}
                 <div class="border-b border-white/10 pb-6 flex justify-between items-center cursor-pointer group">
                     <span class="text-lg font-light group-hover:text-brand-green transition-colors">{q}</span>
                     <span class="text-2xl font-light">+</span>
@@ -37,61 +37,65 @@
                 <h4 class="text-white font-bold mb-4">Product</h4>
                 <ul class="space-y-2">
                     <li><a href="#" class="hover:text-white">Platform</a></li>
+                    <li><a href="#" class="hover:text-white">Agentic Ads</a></li>
+                    <li><a href="#" class="hover:text-white">Agent Analytics</a></li>
                     <li><a href="#" class="hover:text-white">Integrations</a></li>
-                    <li><a href="#" class="hover:text-white">Action</a></li>
-                    <li><a href="#" class="hover:text-white">Grid</a></li>
-                    <li><a href="#" class="hover:text-white">Workflows</a></li>
-                    <li><a href="#" class="hover:text-white">Knowledge Base</a></li>
+                    <li><a href="#" class="hover:text-white">API</a></li>
+                    <li><a href="#" class="hover:text-white">Security</a></li>
                 </ul>
             </div>
             <div>
                 <h4 class="text-white font-bold mb-4">Solutions</h4>
                 <ul class="space-y-2">
-                    <li><a href="#" class="hover:text-white">Content Strategy</a></li>
-                    <li><a href="#" class="hover:text-white">Marketing Agencies</a></li>
-                    <li><a href="#" class="hover:text-white">Content Refresh</a></li>
-                    <li><a href="#" class="hover:text-white">Content Creation</a></li>
+                    <li><a href="#" class="hover:text-white">For Startups</a></li>
+                    <li><a href="#" class="hover:text-white">For Growth Teams</a></li>
+                    <li><a href="#" class="hover:text-white">For Agencies</a></li>
+                    <li><a href="#" class="hover:text-white">Enterprise</a></li>
                 </ul>
             </div>
             <div>
-                <h4 class="text-white font-bold mb-4">General</h4>
+                <h4 class="text-white font-bold mb-4">Company</h4>
                 <ul class="space-y-2">
-                    <li><a href="#" class="hover:text-white">Pricing</a></li>
+                    <li><a href="#" class="hover:text-white">About</a></li>
                     <li><a href="#" class="hover:text-white">Careers</a></li>
-                    <li><a href="#" class="hover:text-white">Documentation</a></li>
-                    <li><a href="#" class="hover:text-white">Affiliate</a></li>
+                    <li><a href="#" class="hover:text-white">Blog</a></li>
+                    <li><a href="#" class="hover:text-white">Press Kit</a></li>
                 </ul>
             </div>
             <div>
                 <h4 class="text-white font-bold mb-4">Resources</h4>
                 <ul class="space-y-2">
-                    <li><a href="#" class="hover:text-white">Academy</a></li>
-                    <li><a href="#" class="hover:text-white">Blog</a></li>
-                    <li><a href="#" class="hover:text-white">AirOps Research</a></li>
-                    <li><a href="#" class="hover:text-white">SEO AI Leader Playbook</a></li>
-                    <li><a href="#" class="hover:text-white">SEO Analysis</a></li>
-                    <li><a href="#" class="hover:text-white">AirOps vs Writer</a></li>
-                    <li><a href="#" class="hover:text-white">AirOps vs Jasper</a></li>
-                    <li><a href="#" class="hover:text-white">Prompts</a></li>
+                    <li><a href="#" class="hover:text-white">Documentation</a></li>
+                    <li><a href="#" class="hover:text-white">Help Center</a></li>
+                    <li><a href="#" class="hover:text-white">Customer Stories</a></li>
+                    <li><a href="#" class="hover:text-white">Pricing</a></li>
+                    <li><a href="#" class="hover:text-white">Changelog</a></li>
+                    <li><a href="#" class="hover:text-white">Status</a></li>
                 </ul>
             </div>
             <div>
-                <h4 class="text-white font-bold mb-4">Support</h4>
+                <h4 class="text-white font-bold mb-4">Legal</h4>
                 <ul class="space-y-2">
-                    <li><a href="#" class="hover:text-white">Talk to Us</a></li>
-                    <li><a href="#" class="hover:text-white">Community</a></li>
-                    <li><a href="#" class="hover:text-white">AirOps Job Board</a></li>
-                    <li><a href="#" class="hover:text-white">Events</a></li>
+                    <li><a href="#" class="hover:text-white">Privacy Policy</a></li>
+                    <li><a href="#" class="hover:text-white">Terms of Service</a></li>
+                    <li><a href="#" class="hover:text-white">Cookie Policy</a></li>
+                    <li><a href="#" class="hover:text-white">Contact</a></li>
                 </ul>
             </div>
         </div>
         
         <div class="mt-32 text-center relative">
-             <h1 class="text-[12rem] md:text-[16rem] font-bold tracking-tighter leading-none text-white select-none">airops</h1>
-             <div class="absolute bottom-4 right-0 flex gap-4 text-[10px] text-gray-500 uppercase tracking-widest">
-                 <a href="#">Privacy Policy</a>
-                 <a href="#">Terms</a>
-                 <a href="#">Contact</a>
+             <div class="flex items-center justify-center gap-4 mb-8">
+                 <svg class="w-16 h-16 text-white" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M5.0473 17.8386L5.69453 18.9586V18.9601H18.3003L18.9314 17.84H6.34063L6.82626 16.9993H19.4308L20.078 15.8807H7.47237L7.95715 15.0414H16.0358L16.0366 15.0429L16.0375 15.0414H20.5603L20.5612 15.0429L21.2084 13.9228L21.208 13.922L21.2084 13.9213H21.2075L14.9084 3.00677L14.9106 3.00296L14.9062 3.00296L13.6177 3.00296L5.0473 17.8386ZM14.261 4.12767L13.7751 4.96887L18.9438 13.9213H19.9139L14.261 4.12767ZM13.1286 6.08808L12.6467 6.9225L16.6749 13.9006L16.6634 13.9213H17.6511L13.1286 6.08808ZM11.9999 8.04225L8.60411 13.9213H15.3899L11.9999 8.04225ZM6.99833 3.30006C7.33866 3.10343 7.7248 2.99993 8.11786 3L2.30033 13.0776C2.10357 12.7371 2 12.3508 2 11.9575C2 11.5643 2.10357 11.178 2.30033 10.8375L6.17916 4.12006C6.37543 3.77951 6.65798 3.49669 6.99833 3.30006ZM9.08869 3H10.3816L3.43223 15.0384L2.785 13.9184L9.08869 3ZM11.3509 3H12.6424L4.56262 16.9963L3.91691 15.8777L11.3509 3ZM21.7064 13.0598C21.8988 12.7254 22 12.3463 22 11.9605C22 11.5746 21.8988 11.1956 21.7064 10.8611L17.8039 4.10233C17.6108 3.7681 17.3331 3.49057 16.9987 3.2976C16.6644 3.10463 16.2852 3.00302 15.8992 3.00296H15.8741L21.6931 13.082L21.7064 13.0598ZM17.7995 19.7994H6.17916C6.37472 20.1412 6.65692 20.4253 6.99728 20.6232C7.33763 20.8212 7.72414 20.9258 8.11786 20.9269H15.8829C16.2737 20.9261 16.6572 20.8212 16.994 20.6231C17.3309 20.4249 17.6089 20.1406 17.7995 19.7994Z" fill="currentColor"/>
+                 </svg>
+                 <h1 class="text-6xl md:text-8xl font-bold tracking-tight leading-none text-white select-none">Lapis</h1>
+             </div>
+             <p class="text-gray-500 text-sm mb-8">© 2024 Lapis Labs Inc. All rights reserved.</p>
+             <div class="flex justify-center gap-6 text-xs text-gray-500 uppercase tracking-widest">
+                 <a href="#" class="hover:text-white transition-colors">Privacy Policy</a>
+                 <a href="#" class="hover:text-white transition-colors">Terms</a>
+                 <a href="#" class="hover:text-white transition-colors">Contact</a>
              </div>
         </div>
     </div>

@@ -3,16 +3,16 @@
         
         <!-- Header Cell -->
         <div class="p-8 border-r border-b border-white/10 md:col-span-1">
-            <h2 class="text-3xl font-serif-display leading-tight mb-4">From our research to your roadmap</h2>
+            <h2 class="text-3xl font-serif-display leading-tight mb-4">By the numbers</h2>
         </div>
 
         <!-- Empty/Description Cell -->
         <div class="p-8 border-r border-b border-white/10 md:col-span-3 flex items-center">
             <p class="text-sm text-gray-400 max-w-xl">
-                AI search evolves fast. Our research team looks at what's changing, what's working and shares it so you can prioritize what's next.
+                Real metrics from growth teams using Lapis to scale their marketing execution without scaling their headcount.
                 <br/><br/>
                 <a href="#" class="inline-flex items-center text-brand-green text-xs font-bold uppercase tracking-widest hover:underline">
-                    See The Deep Dives <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+                    Read Customer Stories <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
                 </a>
             </p>
         </div>
@@ -20,41 +20,41 @@
         <!-- Stat 1 -->
         <div class="p-8 border-r border-b border-white/10 h-80 flex flex-col justify-between group hover:bg-white/5 transition-colors">
             <div>
-                <h3 class="text-lg font-medium mb-4">Third-party content is responsible for</h3>
-                <div class="text-6xl font-serif-display text-brand-green mb-2">85%<span class="text-3xl align-top">↑</span></div>
-                <p class="text-xs text-gray-400">of brand awareness in commercial search.</p>
+                <h3 class="text-lg font-medium mb-4">Average time saved per campaign</h3>
+                <div class="text-6xl font-serif-display text-brand-green mb-2">15hrs</div>
+                <p class="text-xs text-gray-400">from concept to launch compared to traditional workflows.</p>
             </div>
-            <a href="#" class="text-xs font-bold flex items-center opacity-50 group-hover:opacity-100 transition-opacity">Read the Report <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+            <a href="#" class="text-xs font-bold flex items-center opacity-50 group-hover:opacity-100 transition-opacity">See Case Study <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
         </div>
 
         <!-- Stat 2 -->
         <div class="p-8 border-r border-b border-white/10 h-80 flex flex-col justify-between group hover:bg-white/5 transition-colors">
             <div>
-                <h3 class="text-lg font-medium mb-4">Fresh content earns</h3>
-                <div class="text-6xl font-serif-display text-brand-green mb-2">70%<span class="text-3xl align-top">↑</span></div>
-                <p class="text-xs text-gray-400">more citations in AI search.</p>
+                <h3 class="text-lg font-medium mb-4">Platforms managed in one interface</h3>
+                <div class="text-6xl font-serif-display text-brand-green mb-2">4+</div>
+                <p class="text-xs text-gray-400">Meta, Google, LinkedIn, TikTok—all unified in Lapis.</p>
             </div>
-            <a href="#" class="text-xs font-bold flex items-center opacity-50 group-hover:opacity-100 transition-opacity">Read the Report <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+            <a href="#" class="text-xs font-bold flex items-center opacity-50 group-hover:opacity-100 transition-opacity">View Integrations <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
         </div>
 
         <!-- Stat 3 -->
         <div class="p-8 border-r border-b border-white/10 h-80 flex flex-col justify-between group hover:bg-white/5 transition-colors">
             <div>
-                <h3 class="text-lg font-medium mb-4">Visibility decreases</h3>
-                <div class="text-6xl font-serif-display text-brand-green mb-2">50%<span class="text-3xl align-top">↓</span></div>
-                <p class="text-xs text-gray-400">without refreshing content every 12 months or less.</p>
+                <h3 class="text-lg font-medium mb-4">Average cost savings vs agencies</h3>
+                <div class="text-6xl font-serif-display text-brand-green mb-2">60%</div>
+                <p class="text-xs text-gray-400">while maintaining or improving creative quality.</p>
             </div>
-            <a href="#" class="text-xs font-bold flex items-center opacity-50 group-hover:opacity-100 transition-opacity">Read the Report <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+            <a href="#" class="text-xs font-bold flex items-center opacity-50 group-hover:opacity-100 transition-opacity">See Pricing <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
         </div>
 
         <!-- Stat 4 -->
         <div class="p-8 border-r border-b border-white/10 h-80 flex flex-col justify-between group hover:bg-white/5 transition-colors">
             <div>
-                <h3 class="text-lg font-medium mb-4">Structured data were seen in</h3>
-                <div class="text-6xl font-serif-display text-brand-green mb-2">23%</div>
-                <p class="text-xs text-gray-400">of all AI search results related to SaaS.</p>
+                <h3 class="text-lg font-medium mb-4">AI agents tracked simultaneously</h3>
+                <div class="text-6xl font-serif-display text-brand-green mb-2">4</div>
+                <p class="text-xs text-gray-400">ChatGPT, Claude, Perplexity, and Gemini monitoring included.</p>
             </div>
-            <a href="#" class="text-xs font-bold flex items-center opacity-50 group-hover:opacity-100 transition-opacity">Read the Report <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+            <a href="#" class="text-xs font-bold flex items-center opacity-50 group-hover:opacity-100 transition-opacity">Learn About Analytics <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
         </div>
 
     </div>
